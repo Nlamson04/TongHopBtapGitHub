@@ -5,3 +5,4 @@ Nguyễn Lam Sơn
 # Bài 3: https://github.com/NguyenLamSon-123/BTVN_3_S-D-NG-WORDPRESS-T-O-WEB-SITE/blob/main/README.md
 # Bài 4: https://github.com/NguyenLamSon-123/Btapvenha_4/blob/main/README.md
 # Bài 5: https://github.com/NguyenLamSon-123/BaiTap5_PTUDNMN/blob/main/README.md
+# Bài Tập Lớn: https://github.com/Nlamson04/BaiTapLon_PhatTrienUngDUngTrenThietBiDiDong/blob/main/BAOCAO.md
