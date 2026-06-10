@@ -1,4 +1,4 @@
-# TongHopBtapGitHub
+# TongHopBtapGitHub Mã Nguồn Mở
 Nguyễn Lam Sơn
 # Bài 1: https://github.com/NguyenLamSon-123/NguyenLamSon_Batp01_PTUDVMNM/blob/main/A.md
 # Bài 2: https://github.com/NguyenLamSon-123/b-i-t-p-Ph-t-tri-n-ng-d-ng-v-i-m-ngu-n-m-
